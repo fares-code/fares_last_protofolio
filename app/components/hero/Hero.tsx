@@ -20,7 +20,7 @@ const Hero = () => {
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-80 h-80 md:w-[28rem] md:h-[28rem] bg-purple-900/30 rounded-full blur-[140px] -z-10" />
           <div className="relative w-80 h-80 md:w-[28rem] md:h-[28rem] lg:w-[32rem] lg:h-[32rem] rounded-full overflow-hidden drop-shadow-2xl">
             <Image
-              src="/me.png"
+              src="/Me.png"
               alt="Fares"
               fill
               className="object-contain z-10"
